@@ -1,5 +1,5 @@
 'use strict';
-const CACHE='alaska-pwa-20261119-v1';
+const CACHE='alaska-pwa-20261119-icon-v2';
 const RESOURCE_LIST='offline-resources.json';
 const MARKER='__offline_ready_v1__';
 let preparing=false;

@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-19-v1",
+  "version": "2026-11-19-icon-v2",
   "files": [
     {
       "path": "asset-map.js",
@@ -348,8 +348,13 @@
     },
     {
       "path": "icons/app-icon.png",
-      "bytes": 3043041,
-      "sha256": "a679b40119922adcaf55126bf4199339dbb07ef29d889959abd98d7d58699635"
+      "bytes": 528554,
+      "sha256": "f1efb65656df65e688cf18a6e8a45d42474b9ff6bc829f9df02043f99079cf50"
+    },
+    {
+      "path": "icons/apple-touch-icon-180.png",
+      "bytes": 66553,
+      "sha256": "d758e742b498e8566ea0d9e042a2aa3311718447365648d1a42980c556ca8fcf"
     },
     {
       "path": "index.html",
@@ -378,8 +383,8 @@
     },
     {
       "path": "manifest.webmanifest",
-      "bytes": 328,
-      "sha256": "c647c9bc7371be2ef1097ed11f95ece252a78b79f3a7fa42f9fa69adf7bcf0ed"
+      "bytes": 466,
+      "sha256": "b885266519027581a4322546a9294d238bcccfe701abd486e46e4cc137545e5a"
     },
     {
       "path": "motion.js",
@@ -393,8 +398,8 @@
     },
     {
       "path": "offline.html",
-      "bytes": 1314,
-      "sha256": "85434adbc21742ec112d7913c669a0050c2feb21e049c3c77282ce354a86fb48"
+      "bytes": 1342,
+      "sha256": "2211e8a8d8a94147dee6bde6ffa6a25483087dd8278f490703673a1b1b90fecc"
     },
     {
       "path": "offline.js",
@@ -403,8 +408,18 @@
     },
     {
       "path": "service-worker.js",
-      "bytes": 4441,
-      "sha256": "0969d498859ba2313a05cbcda8e75d1e73922e4bc243999fe1e48e4709a560d9"
+      "bytes": 4446,
+      "sha256": "fded380a0c271c5e5f1657872ac3f568c8176cb8052ddbd87ce84e9ce74b4b67"
+    },
+    {
+      "path": "start.html",
+      "bytes": 639,
+      "sha256": "d09ce051e5da256384b37542d827868b33a1fba253a355fbb4e6b4d39f1ec661"
+    },
+    {
+      "path": "start.js",
+      "bytes": 782,
+      "sha256": "0e3e8afc04c5f84058e69505c1f668e2f0da376466c8a855c4e9058ca623c7e8"
     },
     {
       "path": "style.css",
